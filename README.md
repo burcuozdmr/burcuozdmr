@@ -47,7 +47,7 @@
  <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/burcuozdmr/burcuozdmr/blob/output/github-contribution-grid-snake.svg"
+    srcset="https://github.com/burcuozdmr/burcuozdmr/blob/output/github-contribution-grid-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
@@ -55,7 +55,7 @@
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://github.com/burcuozdmr/burcuozdmr/blob/output/github-contribution-grid-snake.gif"
+    src="https://github.com/burcuozdmr/burcuozdmr/blob/output/github-contribution-grid-snake.svg"
   />
 </picture>
   <br/><br/><br/>
