@@ -39,11 +39,26 @@
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burcuozdmr&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<br/><br/>
-
-<hr/>
-
 <br/>
-
-
 <hr/>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+
+ <picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/burcuozdmr/burcuozdmr/blob/output/github-contribution-grid-snake.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github.com/burcuozdmr/burcuozdmr/blob/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://github.com/burcuozdmr/burcuozdmr/blob/output/github-contribution-grid-snake.gif"
+  />
+</picture>
+  <br/><br/><br/>
+</div>
+
+
