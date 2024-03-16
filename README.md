@@ -1,4 +1,5 @@
-<img align="center" src="https://i.pinimg.com/originals/39/0e/1e/390e1e3ed860bcc23fea7fb84cfd393b.jpg" alt="burcuozdmr"   style="height: 200px; width: 1000px; overflow: hidden;"/>
+<!-- <img align="center" src="https://i.pinimg.com/originals/39/0e/1e/390e1e3ed860bcc23fea7fb84cfd393b.jpg" alt="burcuozdmr"   style="height: 200px; width: 1000px; overflow: hidden;"/> -->
+![Main Visual](/assests/background.png)
 <h1 align="center">Hi 👋, I'm Burcu</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
